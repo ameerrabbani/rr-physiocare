@@ -1,0 +1,11 @@
+{
+  "name": "rr-physio-screenshots",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "playwright": "^1.37.0"
+  },
+  "scripts": {
+    "screenshot": "node tests/screenshot.js"
+  }
+}
